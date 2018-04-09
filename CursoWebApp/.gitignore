@@ -35,8 +35,8 @@ local.properties
 .loadpath
 .recommenders
 *.settings
-*_project
-*_classpath
+*_project.xml
+*_classpath.xml
 
 ### Maven ###
 target/
