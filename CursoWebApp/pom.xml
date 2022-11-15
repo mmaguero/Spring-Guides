@@ -14,7 +14,7 @@
 		<jdk.version>1.8</jdk.version>
 		<version.war.plugin>2.6</version.war.plugin>
 		<wildfly.maven.plugin.version>1.2.0.Final</wildfly.maven.plugin.version>
-		<jackson.version>2.10.0.pr1</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 		<jaxb-api.version>2.3.0</jaxb-api.version>
 
 	</properties>
